@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bara</string>
+    <string name="main">Press Play</string>
+    <string name="setts">Settings</string>
+    <string name="bpm">bpm</string>
+    <string name="cycles">cycles</string>
+    <string name="metro">metronome</string>
+    <string name="fin">Good job!</string>
+    <string name="author">By Evolve &lt;Evolve@bk.ru&gt;</string>
+
+</resources>
